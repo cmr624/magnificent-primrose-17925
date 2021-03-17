@@ -2,9 +2,9 @@
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
+        "title": "Natalie Renée",
+        "tagline": "Writer",
+        "profile_img": "images/nat-insta.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
@@ -15,13 +15,8 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "Writing Samples",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
                 "style": "link"
             },
             {
@@ -64,18 +59,11 @@
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": true
             }
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "fuck donald trump"
     },
-    "title": "Stackbit Fresh Theme"
+    "title": "Natalie Renée"
 }

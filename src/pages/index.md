@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hi, I''m Natalie Renée.'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
@@ -29,20 +29,20 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Natalie Renée
+  description: Writer Portfolio
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Natalie Renée
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/nat-insta.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
